@@ -19,4 +19,4 @@ This repository is to easily manipulate the datasets used to train Monika. They 
     - mnk - Responses about herself
         - utter_identity.yml
 
-The datasets can be fed with data and then the domain.yml and the nlu.yml files can be generated using the script 'rasa_format.py'
+The datasets can be fed with data and then the domain.yml and the nlu.yml files can be generated using the script **rasa_format.py**
